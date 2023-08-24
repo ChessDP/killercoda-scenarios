@@ -1,0 +1,17 @@
+{
+  "title": "Introduction to Basic MySQL Queries",
+  "description": "This is a sample basic MySQL Queries which you can run on the test environment.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "text": "create.md"
+      }
+    ]
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
